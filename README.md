@@ -87,7 +87,7 @@ L'architecture respecte les principes de séparation des responsabilités et d'i
 
 1. **Cloner le dépôt:**
    ```bash
-   git clone https://github.com/Freddy-Gitty/API_gestion_devenement.git
+   git clone https://github.com/Freddy-Gitty/GestionEvent.git
    cd gestionevent
    ```
 
@@ -266,8 +266,9 @@ Le rapport sera généré dans `target/site/jacoco/index.html`.
 
 ## Auteur
 
-Ce projet a été développé par **ELA FOE FREDERIC THEOPHILE** dans le cadre d'un apprentissage avancé de de la programmation orientée objet et de Java.
+Ce projet a été développé par **ELA FOE FREDERIC THEOPHILE** dans le cadre d'un apprentissage avancé de de la programmation orientée objet et de Java/Spring Boot.
 
 ---
 
 
+va
