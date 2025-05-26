@@ -1,8 +1,8 @@
-# Système de Gestion d'Événements - G_EVENT
+# Système de Gestion d'Événements - GestionEvent
 
 ## Description du projet
 
-G_EVENT est une application de gestion d'événements complète permettant d'organiser, suivre et gérer différents types d'événements tels que des conférences et concerts. Cette application repose sur une architecture REST et implémente plusieurs patterns de conception, notamment Observer, Singleton et DTO.
+GestionEvent est une application de gestion d'événements complète permettant d'organiser, suivre et gérer différents types d'événements tels que des conférences et concerts. Cette application repose sur une architecture REST et implémente plusieurs patterns de conception, notamment Observer, Singleton et DTO.
 
 ## Table des matières
 
