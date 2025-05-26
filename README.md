@@ -87,8 +87,8 @@ L'architecture respecte les principes de séparation des responsabilités et d'i
 
 1. **Cloner le dépôt:**
    ```bash
-   git clone https://github.com/PIO-VIA/API_gestion_devenement.git
-   cd g-event
+   git clone https://github.com/Freddy-Gitty/API_gestion_devenement.git
+   cd gestionevent
    ```
 
 2. **Configurer la base de données:**
@@ -266,7 +266,7 @@ Le rapport sera généré dans `target/site/jacoco/index.html`.
 
 ## Auteur
 
-Ce projet a été développé par **ELA FOE FREDERIC** dans le cadre d'un apprentissage avancé de Spring Boot.
+Ce projet a été développé par **ELA FOE FREDERIC THEOPHILE** dans le cadre d'un apprentissage avancé de de la programmation orientée objet et de Java.
 
 ---
 
